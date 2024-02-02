@@ -1,2 +1,4 @@
+github.com/gotokatsuya/amazon-pay-sdk-go v0.0.0-20210228091943-4ad67f44e7f2 h1:EoE4c9bvTRnGYaelSpD8o8+7PsZYVWWluri1JmiI3Lo=
+github.com/gotokatsuya/amazon-pay-sdk-go v0.0.0-20210228091943-4ad67f44e7f2/go.mod h1:4jSLSnDdJJZkqPOO3ZXrteAZ+MepB33GAaifQvxOALI=
 github.com/rs/xid v1.2.1 h1:mhH9Nq+C1fY2l1XIpgxIiUOfNpRBYH1kKcr+qfKgjRc=
 github.com/rs/xid v1.2.1/go.mod h1:+uKXf+4Djp6Md1KODXJxgGQPKngRmWyn10oCKFzNHOQ=
