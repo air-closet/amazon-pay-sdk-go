@@ -27,3 +27,9 @@ _testmain.go
 
 .envrc
 *.pem
+
+# Ignore local Claude Code settings, transcripts, and other local files
+.claude/*
+# But DO commit the shared project settings and project-specific files
+!.claude/settings.json
+!.claude/*.project.*
